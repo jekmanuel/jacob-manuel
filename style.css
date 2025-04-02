@@ -1219,8 +1219,7 @@ footer {
     }
 
     footer {
-        position: absolute;
-        margin-top: 10%;
+        position: relative;
     }
 
     .scroll-up {
